@@ -26,7 +26,7 @@ Welcome to my personal archival and localization project! Here you will find cus
 
 ## 📥 Distribution & Links
 Completed softsubs and batch torrent releases are actively distributed and indexed across dedicated platforms, including:
-* [NekoBT Profile](https://nekobt.to/media/s8782) *(Archival Project)*
+* [NekoBT link](https://nekobt.to/media/s8782) 
 * [AniDB](https://anidb.net/group/19174)
 * [Google Drive Mirror](https://drive.google.com/drive/folders/1C3qSXQYYxLXAfqVVeIVvkEe9CJnqzbHW?usp=drive_link)
 
