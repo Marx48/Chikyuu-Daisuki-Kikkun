@@ -1,7 +1,7 @@
 # Chikyuu Daisuki Kikkun
 English softsubs and translation archive for short-form anime series Chikyuu Daisuki! Kikkun. Custom .ass tracks featuring precise timing, speaker separation, and character quirks.
 
-Welcome to my personal archival and localization project! Here you will find custom English softsub subtitle tracks (`.ass` and `.srt`) for various niche, short-form Japanese animations that lack official localization.
+Welcome to my personal archival and localization project! Here you will find custom English softsub subtitle tracks (.ass) for various niche, short-form Japanese animations that lack official localization.
 
 ---
 
